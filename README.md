@@ -193,8 +193,8 @@ This repository has the following structure:
         vectorizer.py
 ```
 
-<!-- REPRODUCIBILITY -->
-## Reproducibility
+<!-- RESULTS -->
+## Results
 The following results were obtained with the default settings for both classification methods:
 
 ```
